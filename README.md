@@ -34,9 +34,10 @@ try {
 }
 ```
 
-3. Go To The Test When it show like this
+3. **Go To The Test smth like this**
 <img width="1426" height="795" alt="image" src="https://github.com/user-attachments/assets/637829f3-e5f8-4c42-b880-aa0d44d77a1a" />
-then press
+
+4. **Open Console**
 
 | Operating System | Keys |
 | :----------------: | :----: |
@@ -44,7 +45,9 @@ then press
 | Windows | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>i</kbd> |
 | Linux | <kbd>ctrl</kbd><kbd>shift</kbd><kbd>i</kbd> |
 
-and paste the code and press **enter** it should show something like this:
+**Redo The Step 1 If Needed**
+
+5. Paste The Script And Press **Enter** it should show something like this:
 <img width="1041" height="802" alt="image" src="https://github.com/user-attachments/assets/8a18d5b7-aa96-4671-8923-9bc15eb8fc6d" />
 
 ## Disclaimer:
