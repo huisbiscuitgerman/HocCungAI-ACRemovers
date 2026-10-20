@@ -1,11 +1,13 @@
 # HocCungAI Listeners Remover Instructions
 this guide provides to you way to remove some "UNWANTED" event listeners from that website. make you can out the tab without any warns
-# This script Works on:
+## This script Works on:
 - **HocCungAI**:`https://hoccungai.vn/*`
-# Steps:
-## 1.**(If it requires)Allow pasting it first**
-```allow pasting```
-## 2. **Copy the Script Before Going Into the test**
+## Steps:
+1.**(If it requires)Allow pasting it first**
+    ```javascript
+    allow pasting
+    ```
+2. **Copy the Script Before Going Into the test**
     ```javascript
 const targets = [
   ["document", document, "visibilitychange"],
@@ -28,8 +30,8 @@ try {
   console.log("You are cooked buddy")
   }
 }
-```
-## 3. Go To The Test When it show like this
+    ```
+3. Go To The Test When it show like this
 <img width="1426" height="795" alt="image" src="https://github.com/user-attachments/assets/637829f3-e5f8-4c42-b880-aa0d44d77a1a" />
 then press
 
