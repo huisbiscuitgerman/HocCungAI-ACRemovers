@@ -6,7 +6,7 @@ this guide provides to you way to remove some "UNWANTED" event listeners from th
 
 1.**(If it requires)Allow pasting it first**
 
-    ```javascript
+    ```
     allow pasting
     ```
     
