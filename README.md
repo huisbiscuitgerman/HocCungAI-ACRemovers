@@ -6,9 +6,7 @@ this guide provides to you way to remove some "UNWANTED" event listeners from th
 
 1.**(If it requires)Allow pasting it first**
 
-    ```
     allow pasting
-    ```
     
 2. **Copy the Script Before Going Into the test**
 
